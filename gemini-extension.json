@@ -1,0 +1,6 @@
+{
+  "name": "gemini-founder-skill",
+  "version": "1.0.0",
+  "description": "Eleven free Gemini skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
+  "contextFileName": "rules/GEMINI.md"
+}
